@@ -1,0 +1,38 @@
+﻿<RecentFiles>
+  <RecentFiles>
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:IRepository.cs" caret="139" fromTop="7" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/f:App.config" caret="0" fromTop="0" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/f:Program.cs" caret="1009" fromTop="21" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Timesheet.cs" caret="279" fromTop="12" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Employee.cs" caret="556" fromTop="19" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Sale.cs" caret="385" fromTop="14" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:SallaryView.cs" caret="554" fromTop="13" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:CreateTimesheet.cs" caret="807" fromTop="18" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Data/f:DataGenerator.cs" caret="552" fromTop="13" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:AllEmployees.cs" caret="308" fromTop="12" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Services/f:PaymentService.cs" caret="501" fromTop="14" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Position.cs" caret="342" fromTop="15" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Payment.cs" caret="15" fromTop="1" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Data/f:Data.cs" caret="0" fromTop="0" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Award.cs" caret="271" fromTop="12" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Entity.cs" caret="17" fromTop="2" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:CreateSale.cs" caret="1292" fromTop="33" />
+  </RecentFiles>
+  <RecentEdits>
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Entity.cs" caret="17" fromTop="2" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:IRepository.cs" caret="35" fromTop="2" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Payment.cs" caret="15" fromTop="1" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:SallaryView.cs" caret="1239" fromTop="27" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Timesheet.cs" caret="203" fromTop="8" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Employee.cs" caret="556" fromTop="19" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Award.cs" caret="117" fromTop="6" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Data/f:DataGenerator.cs" caret="1415" fromTop="32" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Position.cs" caret="342" fromTop="15" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:AllEmployees.cs" caret="1362" fromTop="19" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Services/f:PaymentService.cs" caret="596" fromTop="17" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:CreateTimesheet.cs" caret="917" fromTop="27" />
+    <File id="DE883A31-743A-4619-BCD2-C0DFA58A248B/d:Domain/f:Sale.cs" caret="385" fromTop="14" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/f:Program.cs" caret="1007" fromTop="21" />
+    <File id="5CB2943A-25F1-4105-8DFF-DFC5DFBD2E77/d:actions/f:CreateSale.cs" caret="1444" fromTop="35" />
+  </RecentEdits>
+</RecentFiles>

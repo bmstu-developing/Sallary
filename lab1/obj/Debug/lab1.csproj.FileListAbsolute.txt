@@ -1,0 +1,37 @@
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\bin\Debug\lab1.exe.config
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\bin\Debug\lab1.exe
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\bin\Debug\lab1.pdb
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\obj\Debug\lab1.exe
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\obj\Debug\lab1.pdb
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\bin\Debug\Salary.dll
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\lab1\bin\Debug\Salary.pdb
+C:\Users\Kseniya\Desktop\Salary\lab1\bin\Debug\lab1.exe.config
+C:\Users\Kseniya\Desktop\Salary\lab1\obj\Debug\lab1.exe
+C:\Users\Kseniya\Desktop\Salary\lab1\obj\Debug\lab1.pdb
+C:\Users\Kseniya\Desktop\Salary\lab1\bin\Debug\lab1.exe
+C:\Users\Kseniya\Desktop\Salary\lab1\bin\Debug\lab1.pdb
+C:\Users\Kseniya\Desktop\Salary\lab1\bin\Debug\Salary.dll
+C:\Users\Kseniya\Desktop\Salary\lab1\bin\Debug\Salary.pdb
+C:\Users\Kseniya\Desktop\Salary\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\bin\Debug\lab1.exe.config
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\obj\Debug\lab1.exe
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\obj\Debug\lab1.pdb
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\bin\Debug\lab1.exe
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\bin\Debug\lab1.pdb
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\bin\Debug\Salary.dll
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\bin\Debug\Salary.pdb
+C:\Users\webstorm\Desktop\Salary ksu_edition\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Documents\PRIS\pris-project\Sallary\lab1\bin\Debug\lab1.exe.config
+C:\Users\StorM\Documents\PRIS\pris-project\Sallary\lab1\obj\Debug\lab1.exe
+C:\Users\StorM\Documents\PRIS\pris-project\Sallary\lab1\obj\Debug\lab1.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\lab1.exe.config
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\obj\Debug\lab1.exe
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\obj\Debug\lab1.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\obj\Debug\lab1.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\lab1.exe
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\lab1.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\Salary.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\Salary.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\Castle.Core.xml
+C:\Users\StorM\Desktop\PRIS\Sallary\lab1\bin\Debug\Castle.Windsor.xml

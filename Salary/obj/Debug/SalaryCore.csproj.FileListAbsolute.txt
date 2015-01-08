@@ -1,0 +1,9 @@
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Salary.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Salary.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\SalaryCore.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\Salary.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\Salary.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Castle.Core.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Castle.Windsor.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Castle.Core.xml
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Castle.Windsor.xml

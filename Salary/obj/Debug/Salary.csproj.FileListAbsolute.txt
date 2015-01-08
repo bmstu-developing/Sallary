@@ -1,0 +1,20 @@
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\Salary\bin\Debug\Salary.dll
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\Salary\bin\Debug\Salary.pdb
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\Salary\obj\Debug\Salary.dll
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\Salary\obj\Debug\Salary.pdb
+C:\Users\StorM\Documents\Visual Studio 2013\Projects\Salary\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+C:\Users\Kseniya\Desktop\Salary\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+C:\Users\Kseniya\Desktop\Salary\Salary\obj\Debug\Salary.dll
+C:\Users\Kseniya\Desktop\Salary\Salary\bin\Debug\Salary.dll
+C:\Users\Kseniya\Desktop\Salary\Salary\bin\Debug\Salary.pdb
+C:\Users\Kseniya\Desktop\Salary\Salary\obj\Debug\Salary.pdb
+C:\Users\webstorm\Desktop\Salary ksu_edition\Salary\bin\Debug\Salary.dll
+C:\Users\webstorm\Desktop\Salary ksu_edition\Salary\bin\Debug\Salary.pdb
+C:\Users\webstorm\Desktop\Salary ksu_edition\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+C:\Users\webstorm\Desktop\Salary ksu_edition\Salary\obj\Debug\Salary.dll
+C:\Users\webstorm\Desktop\Salary ksu_edition\Salary\obj\Debug\Salary.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\Salary.csprojResolveAssemblyReference.cache
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\Salary.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Salary.dll
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\bin\Debug\Salary.pdb
+C:\Users\StorM\Desktop\PRIS\Sallary\Salary\obj\Debug\Salary.pdb
